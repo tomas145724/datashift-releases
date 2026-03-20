@@ -1,5 +1,5 @@
 {
-  "versao": "8.6.7",
+  "versao": "8.6.8",
   "data": "2026-03-20",
-  "novidades": "- Ajuste ao fechar tela de login. \n - Correção Painel lateral esquerdo."
+  "novidades": "- Ajuste conexão com Firebird 5.0.\n- Ajuste tela de login para não editar o banco de dados."
 }
