@@ -1,5 +1,5 @@
 {
-  "versao": "8.2.0",
+  "versao": "8.3.0",
   "data": "2026-03-19",
-  "novidades": "- Aba XML NF-e: extrair tributacao e produtos\n- Aba Executar SQL com exportacao Excel\n- Aprendizado por similaridade de schema\n- Mapeamento Fixo com campo Sistema obrigatorio\n- Botao Usar como Mapeamento Fixo nos Scripts Finais"
+  "novidades": "Ajuste no carregamento do arquivo de configuração para melhorar a performance e corrigir bugs relacionados à leitura de arquivos grandes. "
 }
