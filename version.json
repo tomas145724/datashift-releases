@@ -1,6 +1,6 @@
 {
-  "versao": "8.6.9",
+  "versao": "8.6.10",
   "data": "2026-03-21",
-  "novidades": "- Versao inicial publica",
-  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.6.9/DataShift_Setup_latest.exe"
+  "novidades": "- Ajuste no mapeamento de campos\n- Ajuste dimensão da aba Mapeamento",
+  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.6.10/DataShift_Setup_latest.exe"
 }
