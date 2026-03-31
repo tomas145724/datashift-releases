@@ -1,6 +1,6 @@
 {
-  "versao": "8.7.0",
-  "data": "2026-03-27",
-  "novidades": "- Mapeamento aprimorado por sistema.",
-  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.7.0/DataShift_Setup_latest.exe"
+  "versao": "8.7.1",
+  "data": "2026-03-31",
+  "novidades": "- Integração com ImplantaçãoTools.",
+  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.7.1/DataShift_Setup_latest.exe"
 }
