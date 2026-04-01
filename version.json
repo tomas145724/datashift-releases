@@ -2,5 +2,5 @@
   "versao": "8.7.3",
   "data": "2026-03-31",
   "novidades": "- Ajuste nos cursores de conexão, envitando filas de conexões no banco.",
-  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.7.2/DataShift_Setup_latest.exe"
+  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.7.3/DataShift_Setup_latest.exe"
 }
