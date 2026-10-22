@@ -1,6 +1,6 @@
 {
-  "versao": "8.8.1",
+  "versao": "8.8.2",
   "data": "2026-10-21",
-  "novidades": "- Assistente melhorado",
-  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.8.1/DataShift_Setup_latest.exe"
+  "novidades": "- Corrige a atualização automática (o programa não fechava e o instalador dava erro)",
+  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.8.2/DataShift_Setup_latest.exe"
 }
