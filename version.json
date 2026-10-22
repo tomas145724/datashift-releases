@@ -1,6 +1,6 @@
 {
-  "versao": "8.7.3",
-  "data": "2026-03-19",
-  "novidades": "- Aba XML NF-e: extrair tributacao e produtos\n- Aba Executar SQL com exportacao Excel\n- Aprendizado por similaridade de schema\n- Mapeamento Fixo com campo Sistema obrigatorio\n- Botao Usar como Mapeamento Fixo nos Scripts Finais",
-  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.7.3/DataShift_Setup_latest.exe"
+  "versao": "8.8.0",
+  "data": "2026-10-21",
+  "novidades": "- Gerar Scripts: junta TODOS os Scripts Finais do sistema com UNION ALL (ex.: clientes, fornecedores, motoristas)\n- Scripts Finais só são usados se tiverem o layout padrão e rodarem no banco conectado\n- Sistema novo: escolhe tabelas pelas colunas e dados (não só pelo nome) e inclui tabelas com a mesma estrutura\n- Claude via API key ou pela sua assinatura do Claude Code (geração de scripts e aba Assistente)\n- Nova aba Buscar Conteúdo: procura um valor em todas as tabelas do banco (Firebird)\n- Nova aba Nota XML: importa NF-e/NFC-e/NFS-e para SQL Server (aba XML NF-e virou Tributação XML)\n- Aba Mapeamento removida; janela de progresso ao gerar scripts\n- Correções: bancos Firebird dialeto 1, scripts de Produto/Serviço não eram usados, janela sumia após o login",
+  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.8.0/DataShift_Setup_latest.exe"
 }
