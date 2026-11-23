@@ -1,6 +1,6 @@
 {
-  "versao": "8.8.3",
-  "data": "2026-11-16",
-  "novidades": "- Extração xml notas de entrada",
-  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.8.3/DataShift_Setup_latest.exe"
+  "versao": "8.8.4",
+  "data": "2026-11-23",
+  "novidades": "- cst de notas simples nacional pegando a informação conforme CSOSN",
+  "setup_url": "https://github.com/tomas145724/DataShift-releases/releases/download/v8.8.4/DataShift_Setup_latest.exe"
 }
